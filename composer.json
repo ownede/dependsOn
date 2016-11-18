@@ -1,0 +1,23 @@
+{
+    "name": "ownede/jquery-depends-on",
+    "description": "A jQuery plugin to facilitate the handling of form field dependencies",
+    "type": "component",
+    "homepage": "http://github.com/dstreet/dependsOn",
+    "license": "MIT",
+    "dependencies": {
+        "components/jquery": "^1.12.4"
+    },
+    "support": {
+        "irc": "irc://irc.freenode.org/jquery",
+        "issues": "http://bugs.jquery.com",
+        "forum": "http://forum.jquery.com",
+        "wiki": "http://docs.jquery.com/",
+        "source": "https://github.com/jquery/jquery"
+    },
+    "authors": [
+        {
+            "name": "David Street",
+            "email": "dstreet@users.noreply.github.com"
+        }
+    ]
+}
